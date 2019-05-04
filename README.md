@@ -51,4 +51,5 @@ There will be a tutorial for JavaCC and JTB. You can use these files as MiniJava
 Your program should run as follows:
 
 java [MainClassName] [file1] [file2] ... [fileN]
+
 That is, your program must perform semantic analysis on all files given as arguments. May the Force be with you!
